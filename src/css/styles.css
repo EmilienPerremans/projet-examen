@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Add your custom styles here */
+
+.badge {
+    transform: translate(-50%, -50%);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+}
+
+.table thead {
+    background-color: #f8f9fa;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}

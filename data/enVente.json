@@ -1,0 +1,28 @@
+{
+  "produits": [
+      {
+          "id": 1,
+          "Nom": "Policier",
+          "Image": "/images/policier.jpg",
+          "Prix": 150,
+          "Description": "Description de l'article 1",
+          "Catégorie": "Sécurité",
+          "Secteur": "public"
+      },
+      {
+          "id": 2,
+          "Nom": "Pompier",
+          "Image": "/images/pompier.jpg",
+          "Prix": 120,
+          "Description": "Description de l'article 2",
+          "Catégorie": "Sécurité",
+          "Secteur": "public"
+      }
+  ],
+  "catégories": [
+      { "Nom": "Sécurité" }
+  ],
+  "secteur": [
+      { "Nom": "public", "Description": "Secteur public" }
+  ]
+}
